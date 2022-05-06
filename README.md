@@ -32,8 +32,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * Youtube Channel _Web Dev Simplified_
 * UM Canvas - Modules
 * _Web Coding & Development - All IN ONE_ by Paul McFedries
-* 
+
 
 ## Links
 * [Github Repository] (https://github.com/Mandrea30/professional-portfolio)
-* [Deployed Application] (https://mandrea30.github.io/portfolio/)
+* [Deployed Application] (https://mandrea30.github.io/professional-portfolio/)
