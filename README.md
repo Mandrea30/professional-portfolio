@@ -22,9 +22,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshot / Usage
 ---
-![Screen Shot 2022-02-14 at 1 58 12 AM](https://user-images.githubusercontent.com/93743349/153816540-b52b77eb-756b-4592-8c1d-820118770320.png)
+![Screen Shot 2022-05-06 at 2 46 28 PM](https://user-images.githubusercontent.com/93743349/167199551-dad51205-5f9d-4137-aeb2-6cef744ad2ab.png)
 
-![Screen Shot 2022-02-14 at 1 58 34 AM](https://user-images.githubusercontent.com/93743349/153816566-53e6ea5d-555c-4ac5-a40d-98ecd17468bd.png)
+![Screen Shot 2022-05-06 at 2 46 46 PM](https://user-images.githubusercontent.com/93743349/167199596-8c5abda9-439f-400f-b676-205f0194ebac.png)
+
 
 ## Resources / Credits
 ---
@@ -34,5 +35,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * 
 
 ## Links
-* [Github Repository] (https://github.com/Mandrea30/portfolio)
+* [Github Repository] (https://github.com/Mandrea30/professional-portfolio)
 * [Deployed Application] (https://mandrea30.github.io/portfolio/)
