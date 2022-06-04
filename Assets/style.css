@@ -194,6 +194,10 @@ header nav ul li a:hover {
     background-image: url("./images/Find-it.png") ;
 }
 
+.project race-year {
+    background-image: url("./images/race-year.png")
+}
+
 .project-label {
     /*background-color: var(--secondary);*/
     background-color: white;
